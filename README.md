@@ -27,7 +27,7 @@ Getting Started
 
 Once you have an API key, getting started is easy.
 
-See the [render_mate home page](http://rbazinet.github.com/render_mate) for 3 easy steps.
+See the [render_mate wiki](https://github.com/rbazinet/render_mate/wiki) for 3 easy steps.
 
 License
 -----------------
